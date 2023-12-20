@@ -1,11 +1,22 @@
 <h1 align="center">Welcome to my GitHub page! :wave:</h1>
+
 <div align="center">
-<img src="https://i.pinimg.com/originals/1a/25/13/1a25138b1d5523d3bcc86aa065fc5f18.gif">
+  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 50%; margin: auto;">
+    <div style="flex: 1; text-align: left;">
+      <p>
+        Hey there! I am Gonzalo a.k.a Peder. I am a Junior software developer with a growing passion for UX/UI design.<br/>
+        I am constantly looking to expand my knowledge. :dizzy:
+      </p>
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <img src="https://64.media.tumblr.com/fe6d6866c5f3902586116f472a2ab20f/921683666be3fa68-8a/s540x810/90260b81c89a1cc7d3f0bdabf9096d7530e3f83d.gifv" width="300" height="400">
+    </div>
+  </div>
 </div>
-<div align="center">
-  <p>Hey there! I am Gonzalo a.k.a Peder. I am a Junior software developer with a growing passion for UX/UI design.</p>
-  <p>I am constantly looking to expand my knowledge. :dizzy:</p>
-</div>
+
+
+
+
 
 <h2 align="center">My tools and technologies:</h2>
 <div align="center">
