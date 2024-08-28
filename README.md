@@ -4,7 +4,7 @@
   <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 50%; margin: auto;">
     <div style="flex: 1; text-align: left;">
       <p>
-        Hey there! I am Gonzalo a.k.a Peder. I am a Junior software developer with a growing passion for UX/UI design.<br/>
+        Hey there! I am Gonzalo a.k.a Peder. I am a Trainee software developer who is currently studying a Cybersecurity specialization.<br/>
         I am constantly looking to expand my knowledge. :dizzy:
       </p>
     </div>
